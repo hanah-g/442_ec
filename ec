@@ -1,5 +1,3 @@
-package exercises.exercises0;
-
 public class Hello {
 	
 	static boolean isPrime(int n)
