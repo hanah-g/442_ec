@@ -1,6 +1,6 @@
 public class Hello {
 	
-	static boolean isPrime(int n)
+	public static boolean isPrime(int n)
     {
         if (n <= 1)
         {
